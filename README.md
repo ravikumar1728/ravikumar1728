@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Ravi Kumar, currently pursuing a B.Tech-M.Tech in Engineering Physics @IITBHU_Varanasi. I am interested in quantum many-body systems and quantum computing.
+### I am Ravi Kumar, currently pursuing my PhD in Physics @Duke University. I am interested in quantum many-body systems and quantum computing.
 
 <!--
 **ravikumar1728/ravikumar1728** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
